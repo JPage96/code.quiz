@@ -18,5 +18,7 @@ WHEN the game is over
 THEN I can save my initials and score
 
 # Screenshot
+![screentshot](./assets/images/screenshot.png "screenshot")
 
 # Live Deployment
+https://jpage96.github.io/code.quiz/

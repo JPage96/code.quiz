@@ -10,7 +10,7 @@ body {
   }
   
   a:hover {
-    color: rgb(18, 79, 94);
+    color: rgb(34, 121, 70);
   }
   
   button {
@@ -27,7 +27,7 @@ body {
   }
   
   button:hover {
-    background-color: rgb(18, 79, 94);
+    background-color: rgb(34, 121, 70);
   }
   
   .choices button {
@@ -58,7 +58,7 @@ body {
     max-width: 600px;
   }
   
-  .clear {
+  .hide {
     display: none;
   }
   
@@ -72,7 +72,7 @@ body {
     left: 10px;
   }
   
-  .report {
+  .feedback {
     font-style: italic;
     font-size: 120%;
     margin-top: 20px;
